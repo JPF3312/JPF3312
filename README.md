@@ -20,7 +20,7 @@ Systems Engineer focused on **Backend Development, Cloud/DevOps, and Infrastruct
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
 - **GitHub:** [https://github.com/JPF3312](https://github.com/JPF3312)
 - **Open to:** International Remote Roles (Backend, DevOps, Support Engineering)
