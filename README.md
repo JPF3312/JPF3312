@@ -15,10 +15,12 @@ Systems Engineer focused on **Backend Development, Cloud/DevOps, and Event-Drive
 
 ---
 
-###  Featured Projects
+## Featured Projects
 
-- **[task-notification-engine](https://github.com/JPF3312/task-notification-engine):** Asynchronous task execution and real-time notification engine. Built with Node.js, Express, BullMQ, Redis, PostgreSQL, WebSockets, and tested via continuous integration (CI) with GitHub Actions.
-- **[backend-jwt-service](https://github.com/JPF3312/backend-jwt-service):** Containerized RESTful API built with Node.js, Express, PostgreSQL, and Docker Compose featuring secure JWT authentication and route protection.
+- **distributed-api-gateway**: Distributed API Gateway featuring a sliding window rate limiter via Redis, Round-Robin load balancer, fault tolerance with `opossum` Circuit Breaker, and integration tests    with Jest/Supertest.
+- **realtime-event-pipeline**: High-throughput event-driven analytics pipeline built with Apache Kafka (Redpanda), Node.js producer/consumer worker engines, Redis caching, and real-time WebSockets.
+- **task-notification-engine**: Asynchronous task execution and real-time notification engine built with Node.js, Express, BullMQ, Redis, PostgreSQL, and WebSockets.
+- **backend-jwt-service**: Containerized RESTful API built with Node.js, Express, PostgreSQL, and Docker Compose featuring secure JWT authentication and route protection.
 
 ---
 
