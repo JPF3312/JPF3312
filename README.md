@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Johan Patiño Fernández
+#  Johan Patiño Fernández
 ### **Systems Engineer & Backend Developer | Distributed Systems & Microservices**
 
 <p align="center">
@@ -13,12 +13,12 @@
 
 ---
 
-### 💻 `$ whoami`
+### 💻
 > **Backend & Systems Engineer** focused on designing fault-tolerant distributed systems, low-latency asynchronous message pipelines, and high-performance microservices. Passionate about building robust backend architectures from Piendamó, Colombia 🇨🇴.
 
 ---
 
-### 🛠️ `$ cat tech-stack.yaml`
+### 🛠️
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 ---
 
-### ⚡ `$ ls projects/ --featured`
+### ⚡ 
 
 * **[distributed-api-gateway](https://github.com/JPF3312/distributed-api-gateway)**  
   *High-performance Distributed API Gateway featuring sliding-window rate limiting via Redis, Round-Robin load balancing, and fault tolerance via Circuit Breaker.*
@@ -44,7 +44,7 @@
 
 ---
 
-### 📊 `$ git log --stats`
+### 📊 
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 ---
 
-### 🌐 `$ connect --contact`
+### 🌐 `
 
 <div align="center">
 
